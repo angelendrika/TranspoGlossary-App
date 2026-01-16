@@ -32,4 +32,4 @@ TranspoGlossary adalah aplikasi edukasi berbasis Android yang dirancang khusus u
 **Disusun Oleh:**
 * **Nama:** Angel Endrika Faiza Nurfadia
 * **Program Studi:** Teknik Informatika
-* **Tujuan:** Tugas Akhir Praktikum Pengembangan Aplikasi Mobile
+* **Tujuan:** Tugas Akhir Praktikum Pemrogramman Bergerak
