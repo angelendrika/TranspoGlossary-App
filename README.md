@@ -21,6 +21,8 @@ TranspoGlossary adalah aplikasi edukasi berbasis Android yang dirancang khusus u
 
 
 ## 📥 Instalasi
+[![Release](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/angelendrika/TranspoGlossary-App/releases/tag/v1.0)
+atau
 1. Unduh file `TranspoGlossary.apk` dari repositori ini.
 2. Pindahkan file APK ke perangkat Android kamu.
 3. Izinkan instalasi dari **"Sumber Tidak Dikenal"** (Unknown Sources) di pengaturan keamanan HP kamu.
